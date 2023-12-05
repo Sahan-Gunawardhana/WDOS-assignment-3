@@ -2,7 +2,7 @@
     "name": "Tented lodge website",
     "short_name": "Tented lodge",
     "description": "A re-imagined version of the yala Tented lodge",
-    "start_url":"./index.html",
+    "start_url":"../index.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
